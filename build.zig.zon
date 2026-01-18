@@ -15,6 +15,7 @@
         "bindings/zig",
         "typescript/src",
         "tsx/src",
+        "common",
         "queries",
         "LICENSE",
         "README.md",
